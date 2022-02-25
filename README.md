@@ -6,7 +6,7 @@ The Gaming Room was the client. They wanted to develop a web-based game that ser
 
 > What did you do particularly well in developing this documentation?
 
-I felt that my explanations for my storage management explanation was thorough and hit on what would probably be the most important part for developing this application.
+I felt that my explanation for my storage management was thorough and hit on what would probably be the most important part for developing this application.
 
 > What about the process of working through a design document did you find helpful when developing the code?
 
